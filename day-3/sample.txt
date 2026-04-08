@@ -1,1 +1,2 @@
-Hello,this to know about branching and making some changes 
+Hello,this to know about branching and making some changes to this file.
+basic commands
