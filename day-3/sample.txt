@@ -1,3 +1,7 @@
 Hello,this to know about branching and making some changes to this file.
+<<<<<<< HEAD
 basic commands (add,commit,push,pull,status)
 git commit --amend --author = "ujwalakula<ujwal.akula@p99soft.com" -m "intial commit"
+=======
+basic commands
+>>>>>>> parent of a136ffb (changes in main branch(sample.txt) third time)
